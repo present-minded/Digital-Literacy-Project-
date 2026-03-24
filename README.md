@@ -9,12 +9,7 @@ I am Prakhar Agarwal, a B.Tech CSE (AI/ML) student. I am interested in technolog
 ## What is Digital Literacy?
 Digital literacy means the ability to use digital tools like computers, internet, and AI safely and effectively.
 
-## Use of AI in My Work
-I used AI tools like ChatGPT for:
-- Understanding concepts
-- Writing project content
-- Learning coding
-- Debugging errors
+
 
 ## My Digital Skills
 - Programming (Python, AI/ML basics)
@@ -37,5 +32,4 @@ https://www.linkedin.com/in/prakhar-agarwal-1b040a374
 ## Conclusion
 Digital literacy is an essential skill in today’s world.
 
-## Note
-This project was created with the help of AI tools like ChatGPT.
+
