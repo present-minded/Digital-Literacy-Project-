@@ -47,7 +47,7 @@ It also includes a Python-based sentiment analysis program that analyzes user in
 
 # Installation
 
-1. Install Python (if not already installed)
+1. Install Python 
 2. Install required library:
 
 pip install textblob
